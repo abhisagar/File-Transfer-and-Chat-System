@@ -1,4 +1,4 @@
-File-Transfer-and-Chat-System
+# File-Transfer-and-Chat-System
 A client and server application to upload files to server, create groups and share messages/files in groups
 
 To compile:
