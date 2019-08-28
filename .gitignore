@@ -1,0 +1,19 @@
+*.class
+*.iml
+
+# intellij file
+*.idea
+
+# Directories
+ServerDir/
+ClientDir/
+
+#Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
